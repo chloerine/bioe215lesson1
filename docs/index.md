@@ -1,6 +1,7 @@
 # READ ME
-This is my project for the Computational Project Orientation lesson of *Data Science for Eco/Evo*. 
 
-The reading assessment answers are [here](assessment.md)
+This is my project for the Computational Project Orientation lesson of *Data Science for Eco/Evo*.
+
+The reading assessment answers are [here](reading.md)
 
 The project organization notes are [here](proj_org_notes.md)
